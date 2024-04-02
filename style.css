@@ -1,0 +1,11 @@
+#cajaColor {
+    width: 400px;
+    height: 200px;
+    background-color: white;
+    margin: 20px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+  }
